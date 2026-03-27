@@ -38,20 +38,6 @@ VPN peer-to-peer, cifrado E2E y zero-config
 
 ---
 
-# Recursos
-
-- Presentación:
-  - Web: https://tailscale-udi.pulgueta.com
-  - GitHub: https://github.com/pulgueta/tailscale-lecture
-- Tailscale:
-  - Web: https://tailscale.com
-  - GitHub: https://github.com/tailscale/tailscale
-- Wireguard:
-  - Web: https://www.wireguard.com
-  - GitHub (mirrors): https://github.com/orgs/WireGuard/repositories
-
----
-
 # El problema de las VPN tradicionales
 
 ```mermaid {theme: 'dark', scale: 0.6}
@@ -599,3 +585,18 @@ graph TB
 ```
 
 ---
+
+# Recursos
+
+- Presentación:
+  - Web: https://tailscale-udi.pulgueta.com
+  - GitHub: https://github.com/pulgueta/tailscale-lecture
+- Tailscale:
+  - Web: https://tailscale.com
+  - GitHub: https://github.com/tailscale/tailscale
+- Wireguard:
+  - Web: https://www.wireguard.com
+  - GitHub (mirrors): https://github.com/orgs/WireGuard/repositories
+- https://www.paloaltonetworks.com/cyberpedia/what-is-a-vpn-concentrator
+- https://tailscale.com/learn/understanding-mesh-vpns
+- https://tailscale.com/blog/how-tailscale-works
